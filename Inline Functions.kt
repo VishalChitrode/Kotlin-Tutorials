@@ -1,9 +1,6 @@
 fun main() {
 CalculateTimeAndRun {
-  loop(1000000)
-}
-    CalculateTimeAndRun {
-  loop(1000000)
+  loop(1)
 }
     CalculateTimeAndRun {
   loop(1000000)
