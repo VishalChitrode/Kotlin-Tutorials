@@ -16,5 +16,4 @@ fun main() {
     val map:Map<Int,String> = mapOf<Int,String>(1 to "Hello",2 to "World")
     print(map)
 
-
 }
